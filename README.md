@@ -1,6 +1,9 @@
 # NDP - NauciDaProgramiras
 NDP is programming eLearning platform for android. Providing standard features and unique ones such as fclang support.
 
+NDP was winner app of MTS App Challenge and Regional App Challenge.
+[Article about the project](https://www.espreso.co.rs/vesti/drustvo/745333/mladi-filip-je-razvio-aplikaciju-koja-moze-da-promeni-svet-za-nju-je-dobio-nagradu-a-vec-je-spremna-za-korisnike)
+
 ## Getting started
 ### Requirements
 * Android Studio / Eclipse or text editor
