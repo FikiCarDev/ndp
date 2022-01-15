@@ -5,6 +5,8 @@ NDP was winner app of MTS App Challenge and Regional App Challenge.
 
 [Article about the project](https://www.espreso.co.rs/vesti/drustvo/745333/mladi-filip-je-razvio-aplikaciju-koja-moze-da-promeni-svet-za-nju-je-dobio-nagradu-a-vec-je-spremna-za-korisnike)
 
+<a href="https://play.google.com/store/apps/details?id=com.devoFikiCar.ndp&hl=en&gl=US"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
+
 ## Getting started for developers
 ### Requirements
 * Android Studio / Eclipse or text editor
