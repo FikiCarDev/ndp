@@ -28,6 +28,6 @@ Some of common issues:
 
 For more information <a href="info.pdf" download>see info.pdf</a>
 
-## Authors
+## Author
 
 [@devfoFikiCar](https://github.com/devfoFikiCar)
