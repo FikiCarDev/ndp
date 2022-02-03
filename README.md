@@ -24,7 +24,6 @@ NDP was winner app of MTS App Challenge and Regional App Challenge organised by 
 
 Some of common issues:
 * Make sure you have device which meets min requirements
-* Firestore firebase is not included, so you have to make your own contact [@devfoFikiCar](https://github.com/devfoFikiCar) for support
 
 For more information <a href="info.pdf" download>see info.pdf</a>
 
