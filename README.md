@@ -30,4 +30,4 @@ For more information <a href="info.pdf" download>see info.pdf</a>
 
 ## Author
 
-[@devfoFikiCar](https://github.com/devfoFikiCar)
+[@FikiCarDev](https://github.com/FikiCarDev)
