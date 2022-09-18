@@ -1,31 +1,19 @@
 # NDP - NauciDaProgramiras
-NDP is programming eLearning platform for android. Providing standard features and unique ones such as fclang support.
+NDP is programming eLearning platform for Android. It provides everything from
+classes, lectures, assignments, analytics tools, teacher moderation tools etc. to multi 
+programming language support including Python, Java and [Fclang](https://github.com/FikiCarDev/fclang).
 
-NDP was winner app of MTS App Challenge and Regional App Challenge organised by [Telekom Serbia](https://mts.rs).
+NDP was winner app of MTS App Challenge and Regional App Challenge organized by [Telekom Serbia](https://mts.rs).
 
 <a href="https://play.google.com/store/apps/details?id=com.devoFikiCar.ndp&hl=en&gl=US"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
 
-## Getting started for developers
-### Requirements
-* Android Studio / Eclipse or text editor
-* Java
-* Any OS that supports java eg. Windows, Linux, Mac OS...
+![image 4](readme_imgs/4.webp)
+![image 3](readme_imgs/3.webp)
+![image 2](readme_imgs/2.webp)
+![image 5](readme_imgs/5.webp)
 
-### Installing
-
-  * Clone this repository to your computer
-  * With your IDE or text editor open the folder
-
-### Executing
-
-  * Run with built in IDE options or custom terminal command
-
-## Help
-
-Some of common issues:
-* Make sure you have device which meets min requirements
-
-For more information <a href="info.pdf" download>see info.pdf</a>
+**Note:** this is an open source version of NDP, which means it lacks a lot of things.
+Most importantly you have to connect you own database in order to run it.
 
 ## Author
 
