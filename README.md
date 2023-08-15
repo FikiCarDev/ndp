@@ -15,9 +15,6 @@ NDP was winner app of MTS App Challenge and Regional App Challenge organized by 
 **Note:** this is an open source version of NDP, which means it lacks a lot of things.
 Most importantly you have to connect you own database in order to run it.
 
-**Note**: this app has been created before <a href="https://android-standard-hosting.web.app/">Android App Development Standard</a>. 
-Therefore it does not follow the guidelines.
-
 ## Author
 
 [@FikiCarDev](https://github.com/FikiCarDev)
